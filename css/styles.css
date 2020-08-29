@@ -1,7 +1,4 @@
-/*
-Theme Name: Free-Portfolio-HTML5-Responsive-Website-Sam
-Author URI: http://webthemez.com/ 
-*/
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
 * {
 	margin: 0;
@@ -58,7 +55,7 @@ p {
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #5887FF;
+	color: #121ece;
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
@@ -936,8 +933,9 @@ footer {
 #portfolio{
 background: #DBDBDB;	
 	}
+
 #contactUs{
-	 background: #9cd7ff;
+	background: #929292;
 }
 #contactUs p{
 color:#000;
